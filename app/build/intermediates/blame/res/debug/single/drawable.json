@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbutton.xml",
+        "source": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dfs.gif",
+        "source": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\src\\main\\res\\drawable\\dfs.gif"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool.png",
+        "source": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\src\\main\\res\\drawable\\tool.png"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dfs.gif",
+        "source": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\src\\main\\res\\drawable\\dfs.gif"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gfsgs.png",
+        "source": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\src\\main\\res\\drawable\\gfsgs.png"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool.png",
+        "source": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\src\\main\\res\\drawable\\tool.png"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbutton.xml",
+        "source": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gfsgs.png",
+        "source": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\src\\main\\res\\drawable\\gfsgs.png"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\cf82b7f25a45de0582353b155242ce8f8e7e1d46\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\79235b55d5d52937be48764994a83d3c50fb1577\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\1bdf1a0841e88bbd205f336cddbcf5d939833148\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\2681a06917be28926a8592e9031aaee6636fb3a2\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\devUnity\\Desktop\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\devUnity\\.android\\build-cache\\455c9c845e148fb0ac1a61ab015db90d9e8f7b0b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BazaarBari\\Downloads\\XRayApps-20170824T154659Z-001\\XRayApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\BazaarBari\\.android\\build-cache\\08aa856909fece2414165e69b412a3c841a3c5cc\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    }
+]

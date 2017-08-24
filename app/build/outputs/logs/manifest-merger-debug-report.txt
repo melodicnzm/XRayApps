@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:5:5-81
+MERGED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:8:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\BazaarBari\.android\build-cache\4543cec4c437f75ea0a5542d707d6adca2ca096c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:13:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] C:\Users\BazaarBari\.android\build-cache\48a91a041086a37d939dd206150b42b6a08c8449\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] C:\Users\BazaarBari\.android\build-cache\57dd7cdce5b51d61d6b483fe18224fec86cebb51\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] C:\Users\BazaarBari\.android\build-cache\35ea952d6079f24460443281dd1d5608952a2d28\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\BazaarBari\.android\build-cache\79235b55d5d52937be48764994a83d3c50fb1577\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\BazaarBari\.android\build-cache\9b9c98cef84300083648eb39785207b044c6b617\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\BazaarBari\.android\build-cache\b8f2a2d845ff6562cb67882804ea9574fcd714ab\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\08aa856909fece2414165e69b412a3c841a3c5cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BazaarBari\.android\build-cache\70fa65a0a2c15ee6ccd279575c38dd319e47ff02\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BazaarBari\.android\build-cache\a478e67dd7709f31ad0fbe6716a4aa5b678c0ead\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BazaarBari\.android\build-cache\682a986623027f43e33a34bdf4c683ae2def9d86\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BazaarBari\.android\build-cache\2e2b3b0a31920acbabd9b60421d4a4af97091cf9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BazaarBari\.android\build-cache\eb1e5f865f2444974519b72306a3e0997fdc2315\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BazaarBari\.android\build-cache\d8e5c83ae2ade2d136b3d805eeaec33e5d0224bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BazaarBari\.android\build-cache\1497a0e5f4e38037aeb6335e8feab3c056c25850\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\a9b75c4e78406602291d7a25f74e12d14e9057ab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\BazaarBari\.android\build-cache\95c303e876784af0073c224ae72b1417ee9c4515\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BazaarBari\.android\build-cache\cea07c8ac8a22782a517d4d1fa5ced52a20ceae5\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:16:9-99
+	android:value
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:16:66-97
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:16:20-65
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:18:9-20:39
+	android:authorities
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:18:19-96
+	android:exported
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:19:13-64
+activity#com.example.devunity.xrayapps.SplashScreen
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:23:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.devunity.xrayapps.MyApplication
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:38:19-48
+activity#com.example.devunity.xrayapps.ScanActivity
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:41:9-49
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:41:19-47
+activity#com.example.devunity.xrayapps.InstructionActivity
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:42:19-54
+activity#com.example.devunity.xrayapps.MainActivity
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:43:9-49
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:43:19-47
+activity#com.example.devunity.xrayapps.LoadingPage
+ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:44:9-48
+	android:name
+		ADDED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:44:19-46
+uses-sdk
+INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\BazaarBari\.android\build-cache\4543cec4c437f75ea0a5542d707d6adca2ca096c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.2] C:\Users\BazaarBari\.android\build-cache\86f64791b47116dd0e60e1968d5a301db6360ad4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.1] C:\Users\BazaarBari\.android\build-cache\b319a945d6bd5357902c48cb1ac63aec858fc7a1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] C:\Users\BazaarBari\.android\build-cache\48a91a041086a37d939dd206150b42b6a08c8449\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] C:\Users\BazaarBari\.android\build-cache\57dd7cdce5b51d61d6b483fe18224fec86cebb51\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] C:\Users\BazaarBari\.android\build-cache\35ea952d6079f24460443281dd1d5608952a2d28\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\BazaarBari\.android\build-cache\79235b55d5d52937be48764994a83d3c50fb1577\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\BazaarBari\.android\build-cache\9b9c98cef84300083648eb39785207b044c6b617\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\BazaarBari\.android\build-cache\b8f2a2d845ff6562cb67882804ea9574fcd714ab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\08aa856909fece2414165e69b412a3c841a3c5cc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BazaarBari\.android\build-cache\70fa65a0a2c15ee6ccd279575c38dd319e47ff02\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BazaarBari\.android\build-cache\a478e67dd7709f31ad0fbe6716a4aa5b678c0ead\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BazaarBari\.android\build-cache\682a986623027f43e33a34bdf4c683ae2def9d86\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BazaarBari\.android\build-cache\2e2b3b0a31920acbabd9b60421d4a4af97091cf9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BazaarBari\.android\build-cache\eb1e5f865f2444974519b72306a3e0997fdc2315\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BazaarBari\.android\build-cache\d8e5c83ae2ade2d136b3d805eeaec33e5d0224bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BazaarBari\.android\build-cache\1497a0e5f4e38037aeb6335e8feab3c056c25850\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\a9b75c4e78406602291d7a25f74e12d14e9057ab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\BazaarBari\.android\build-cache\95c303e876784af0073c224ae72b1417ee9c4515\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BazaarBari\.android\build-cache\cea07c8ac8a22782a517d4d1fa5ced52a20ceae5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\08aa856909fece2414165e69b412a3c841a3c5cc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:16:9-24:20
+	android:authorities
+		ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:18:13-65
+	android:grantUriPermissions
+		ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:20:13-47
+	android:exported
+		ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:17:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:21:13-23:54
+	android:resource
+		ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:23:17-51
+	android:name
+		ADDED from [com.mindorks:paracamera:0.2.2] C:\Users\BazaarBari\.android\build-cache\3bd856fd89dc957624df4cf5671b0dd5395fe2bc\output\AndroidManifest.xml:22:17-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\BazaarBari\Downloads\XRayApps-20170824T154659Z-001\XRayApps\app\src\main\AndroidManifest.xml:2:1-47:12 reason: com.mindorks.paracamera requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\BazaarBari\.android\build-cache\6b886b6ca7090c90a070c27e19b986b2bf622464\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\BazaarBari\.android\build-cache\79235b55d5d52937be48764994a83d3c50fb1577\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\BazaarBari\.android\build-cache\79235b55d5d52937be48764994a83d3c50fb1577\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\BazaarBari\.android\build-cache\79235b55d5d52937be48764994a83d3c50fb1577\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\BazaarBari\.android\build-cache\79235b55d5d52937be48764994a83d3c50fb1577\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\BazaarBari\.android\build-cache\b8f2a2d845ff6562cb67882804ea9574fcd714ab\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\BazaarBari\.android\build-cache\b8f2a2d845ff6562cb67882804ea9574fcd714ab\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\BazaarBari\.android\build-cache\b8f2a2d845ff6562cb67882804ea9574fcd714ab\output\AndroidManifest.xml:20:20-65
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\BazaarBari\.android\build-cache\2681a06917be28926a8592e9031aaee6636fb3a2\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\08aa856909fece2414165e69b412a3c841a3c5cc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BazaarBari\.android\build-cache\70fa65a0a2c15ee6ccd279575c38dd319e47ff02\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BazaarBari\.android\build-cache\a478e67dd7709f31ad0fbe6716a4aa5b678c0ead\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BazaarBari\.android\build-cache\682a986623027f43e33a34bdf4c683ae2def9d86\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BazaarBari\.android\build-cache\2e2b3b0a31920acbabd9b60421d4a4af97091cf9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BazaarBari\.android\build-cache\eb1e5f865f2444974519b72306a3e0997fdc2315\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BazaarBari\.android\build-cache\d8e5c83ae2ade2d136b3d805eeaec33e5d0224bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BazaarBari\.android\build-cache\1497a0e5f4e38037aeb6335e8feab3c056c25850\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\a9b75c4e78406602291d7a25f74e12d14e9057ab\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\BazaarBari\.android\build-cache\95c303e876784af0073c224ae72b1417ee9c4515\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BazaarBari\.android\build-cache\cea07c8ac8a22782a517d4d1fa5ced52a20ceae5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\08aa856909fece2414165e69b412a3c841a3c5cc\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BazaarBari\.android\build-cache\08aa856909fece2414165e69b412a3c841a3c5cc\output\AndroidManifest.xml:26:9-47

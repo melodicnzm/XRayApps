@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.devunity.xrayapps">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="488101424876880"/>
+
+        <provider android:authorities="com.facebook.app.FacebookContentProvider488101424876880"
+            android:name="com.facebook.FacebookContentProvider"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Main activity -->
+
+
+        <activity android:name=".MyApplication">
+        </activity>
+
+        <activity android:name=".ScanActivity"/>
+        <activity android:name=".InstructionActivity"/>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".LoadingPage"/>
+    </application>
+
+</manifest>
